@@ -8,7 +8,6 @@ I design and ship autonomous systems that collect signals, make decisions, and e
 
 **AI Agent & Decision Systems**
 - [auto-defi-agent](https://github.com/web3xiaogong/auto-defi-agent) — ML-powered DeFi yield optimizer across BNB/ETH/ARB chains
-- [tech-ip-radar](https://github.com/web3xiaogong/tech-ip-radar) — 6-dimension scoring engine for tech content opportunity detection
 - [automated-daily-workflow](https://github.com/web3xiaogong/automated-daily-workflow) — Multi-source signal aggregation → scoring → daily alpha reports
 
 **Data Monitoring & Intelligence**
